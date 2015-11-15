@@ -1,2 +1,3 @@
 # project1
-print "hello"
+Hello world! 
+I am the first progamme ever created by Quang 
